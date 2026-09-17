@@ -2,17 +2,18 @@
   "schemaVersion": 1,
   "product": "ATLAS by Orion",
   "channel": "stable",
-  "version": "0.1.10.9",
-  "build": "001A Final Update 1",
-  "publishedAt": "2026-09-16T22:20:00-03:00",
+  "version": "0.1.11.1",
+  "build": "001B Part 02 Stable",
+  "publishedAt": "2026-09-17T02:15:42Z",
   "platform": "win-x64",
-  "installerUrl": "https://github.com/abraham-martins/atlas-by-orion-releases/releases/download/v0.1.10.9/ATLAS-by-Orion-0.1.10.9-Stable-Setup.exe",
-  "sha256": "",
+  "installerUrl": "https://github.com/abraham-martins/atlas-by-orion-releases/releases/download/v0.1.11.1/ATLAS-by-Orion-0.1.11.1-Stable-Setup.exe",
+  "sha256": "3e877e6fa84dde18ed554dc20f283dd51d82f97dd2834fe063dc840a1f440367",
   "mandatory": false,
-  "minimumSupportedVersion": "0.1.10.8",
+  "minimumSupportedVersion": "0.1.10.9",
   "releaseNotes": [
-    "Build 001A Final Update 1.",
-    "Atualização in-place validada com preservação de configurações, SQLite, favoritos, projetos, histórico e backups.",
-    "Identidade final ATLAS by Orion e diagnóstico ATLAS Runtime."
+    "Build 001B Parte 02 Stable.",
+    "Nova interface dos controles da janela do ATLAS.",
+    "Atualizador integrado ao canal Stable do GitHub.",
+    "Download protegido por validação SHA-256 e backup antes da instalação."
   ]
 }
